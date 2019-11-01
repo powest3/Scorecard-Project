@@ -1,5 +1,0 @@
-﻿"CIP14BACHL":"B.S Engineering","CIP27BACHL":"B.S Math","CIP11BACHL":"B.S Computer Science","CIP41BACHL":"B.S Science and Tech","REGION":"Region","FEMALE":"Share of Female",
-"UGDS":"Enrollment of UnderGrad","UG":"UnderGrad Population","MN_EARN_WNE_INC1_P6":"Mean Earning After 6 yrs of Grad (0-30k)",
-"MN_EARN_WNE_INC2_P6":"Mean Earning After 6 yrs of Grad(30-75k)","MN_EARN_WNE_INC3_P6":"Mean Earning After 6 yrs of Grad(75k +)",
-"MN_EARN_WNE_INC1_P8":"Mean Earning After 10 yrs of Grad (0-30k)","MN_EARN_WNE_INC2_P8":"Mean Earning After 6 yrs of Grad(30-75k)","MN_EARN_WNE_INC3_P8":"Mean Earning After 6 yrs of Grad(75k +)","MN_EARN_WNE_INC1_P10":"Mean Earning After 10 yrs of Grad (0-30k)","MN_EARN_WNE_INC2_P10":"Mean Earning After 10 yrs of Grad(30-75k)",
-"MN_EARN_WNE_INC3_P10":"Mean Earning After 10 yrs of Grad(75k +)",
